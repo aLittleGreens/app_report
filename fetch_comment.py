@@ -10,24 +10,11 @@ from dateutil import parser
 
 
 # 设置应用程序 ID
-# 猫头鹰
 appid = 1544760744
 appid_android = 'com.philips.ph.babymonitorplus'
 
 # 设置输出文件名
 commentjson = '1.1.1'
-
-# 飞利浦智慧家
-# appid=1594202020
-# appid_android = 'com.philips.dachinaiot'
-
-# 施耐德
-# appid=1026806919
-# appid_android = 'com.schneiderelectric.WiserBySE'
-
-# 飞利浦扫地机
-# appid=1638671696
-# appid_android = 'com.philips.da.philipsrobot'
 
 # 翻译
 client = Translate()
