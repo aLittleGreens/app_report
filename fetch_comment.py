@@ -164,7 +164,7 @@ with concurrent.futures.ThreadPoolExecutor() as executor:
     for page in range(1, 11):
       executor.submit(fetch_reviews, country_item, page)
 
-print("google play comment length:"+str(len(all_ios_reviews)))
+print("app store comment length:"+str(len(all_ios_reviews)))
 
 all_android_reviews = []
 
@@ -256,7 +256,7 @@ for review in all_android_reviews:
   ios_review = convert_review_to_ios(review)
   iosList.append(ios_review)
 
-print("App store comment length:"+str(len(iosList)))
+print("google play comment length:"+str(len(iosList)))
 
 all_ios_reviews.extend(iosList)
 
