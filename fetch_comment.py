@@ -1,11 +1,12 @@
 import os
-
 import requests
 import json
 import concurrent.futures
 from google_play_scraper import Sort, reviews
 from pygtrans import Translate
 from dateutil import parser
+import time
+import random
 
 
 
@@ -131,38 +132,52 @@ def fetch_reviews(country_item, page):
   cc = country_item['cc']
   country_name = country_item['country']
   myurl = f"https://itunes.apple.com/rss/customerreviews/page={page}/id={appid}/sortby=mostrecent/json?l=en&&cc={cc}"
-  # print(f'当前地址：{myurl}')
+  print(f'正在获取 {country_name} 第 {page} 页评论')
+  
   response = requests.get(myurl)
   response.raise_for_status()
   myjson = response.json()
   feed = myjson["feed"]
-  if 'entry' in feed:
-    entry = feed['entry']
-    if not isinstance(entry, dict):
-      for obj in entry:
-        obj['cc'] = cc
-        obj['ty_review_type'] = '0'  # 0 代表未定义, 1 代表需求 2 代表bug
-        obj[
-          'ty_question_type'] = '0'  # ty_question_type ： 0代表未分类，通知问题、配网问题、拉流问题、网络问题、设备问题、崩溃问题、需求性问题、适配问题、兼容性问题、非问题、其他 依次递增
-        obj['content_translate'] = obj['content']['label']
-        obj['title_translate'] = obj['title']['label']
-      all_ios_reviews.extend(entry)
-    else:
-      entry['cc'] = cc
-      entry[
-        'ty_question_type'] = '0'  # ty_question_type ： 0代表未分类，通知问题、配网问题、拉流问题、网络问题、设备问题、崩溃问题、需求性问题、适配问题、兼容性问题、非问题、其他 依次递增
-      entry['ty_review_type'] = '0'  # 0 代表未定义, 1 代表需求 2 代表bug
-      entry['content_translate'] = entry['content']['label']
-      entry['title_translate'] = entry['title']['label']
-      all_ios_reviews.append(entry)
-    alljson = myjson
-    alljson['feed']['entry'] = all_ios_reviews
+  
+  # 检查是否有数据
+  if 'entry' not in feed or not feed['entry']:
+    print(f'{country_name} 第 {page} 页没有数据，跳过当前国家')
+    return False
+    
+  entry = feed['entry']
+  if not isinstance(entry, dict):
+    for obj in entry:
+      obj['os'] = {"label": "IOS"}
+      obj['cc'] = cc
+      obj['ty_review_type'] = '0'  # 0 代表未定义, 1 代表需求 2 代表bug
+      obj['ty_question_type'] = '0'  # ty_question_type ： 0代表未分类，通知问题、配网问题、拉流问题、网络问题、设备问题、崩溃问题、需求性问题、适配问题、兼容性问题、非问题、其他 依次递增
+      obj['content_translate'] = obj['content']['label']
+      obj['title_translate'] = obj['title']['label']
+    all_ios_reviews.extend(entry)
+  else:
+    entry['os'] = {"label": "IOS"}
+    entry['cc'] = cc
+    entry['ty_question_type'] = '0'  # ty_question_type ： 0代表未分类，通知问题、配网问题、拉流问题、网络问题、设备问题、崩溃问题、需求性问题、适配问题、兼容性问题、非问题、其他 依次递增
+    entry['ty_review_type'] = '0'  # 0 代表未定义, 1 代表需求 2 代表bug
+    entry['content_translate'] = entry['content']['label']
+    entry['title_translate'] = entry['title']['label']
+    all_ios_reviews.append(entry)
+  alljson = myjson
+  alljson['feed']['entry'] = all_ios_reviews
+  print(f'{country_name} 第 {page} 页评论获取完成，当前总评论数：{len(all_ios_reviews)}')
+  return True
 
 
-with concurrent.futures.ThreadPoolExecutor() as executor:
-  for country_item in arrcc:
-    for page in range(1, 11):
-      executor.submit(fetch_reviews, country_item, page)
+# 串行执行，每次请求后随机延时1-2秒
+for country_item in arrcc:
+  for page in range(1, 11):
+    has_data = fetch_reviews(country_item, page)
+    if not has_data:
+      break  # 如果当前页没有数据，跳出内层循环，处理下一个国家
+    # 随机延时1-2秒
+    delay = random.uniform(0.5, 1.5)
+    print(f'等待 {delay:.1f} 秒后继续...')
+    time.sleep(delay)
 
 print("app store comment length:"+str(len(all_ios_reviews)))
 

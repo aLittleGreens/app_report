@@ -1,0 +1,1862 @@
+{
+    "feed": {
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Joyce Deurhof"
+                    },
+                    "label": "Joyce Deurhof"
+                },
+                "updated": {
+                    "label": "2025-05-22T04:41:52Z"
+                },
+                "im:rating": {
+                    "label": 4
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "e65dd126-f600-44a6-b5a5-814ddb3a31e6"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Opzich zeer tevreden met de babyfoon. Wel een aantal verbeterenpunten: 1. het zou fijn zijn als je het geluid per soort melding kunt aanpassen. Nu zijn alle senseIQ meldingen hetzelfde geluid, terwijl 'geen signaal' voor mij wel een andere prioriteit heeft dan bv. 'actief/wakker'. 2. sinds de update van gisteren blijft de app veelal hangen. Ik zie dan bv. de gegevens van een uur daarvoor mbt slaapduur, slaapfase etc. Hij heeft dan een paar seconden nodig om te refreshen.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u5bf9\u5a74\u513f\u76d1\u89c6\u5668\u975e\u5e38\u6ee1\u610f\u3002\u8bb8\u591a\u6539\u8fdb\u70b9\uff1a1\u3002\u5982\u679c\u60a8\u53ef\u4ee5\u8c03\u6574\u6bcf\u79cd\u901a\u77e5\u7684\u58f0\u97f3\uff0c\u90a3\u5c31\u592a\u597d\u4e86\u3002\u73b0\u5728\uff0c\u6240\u6709Senseiq\u62a5\u544a\u7684\u58f0\u97f3\u90fd\u662f\u76f8\u540c\u7684\uff0c\u800c\u201c\u65e0\u4fe1\u53f7\u201d\u5bf9\u6211\u6765\u8bf4\u5177\u6709\u4e0d\u540c\u7684\u4f18\u5148\u7ea7\uff0c\u4f8b\u5982\u201c Active/Awake\u201d\u3002 2\u3002\u7531\u4e8e\u6628\u5929\u7684\u66f4\u65b0\uff0c\u5e94\u7528\u7a0b\u5e8f\u7ecf\u5e38\u5f98\u5f8a\u3002\u4f8b\u5982\uff0c\u6211\u770b\u5230\u7761\u7720\u6301\u7eed\u65f6\u95f4\uff0c\u7761\u7720\u9636\u6bb5\u7b49\u4e00\u5c0f\u65f6\u7684\u6570\u636e\u3002\u7136\u540e\uff0c\u4ed6\u9700\u8981\u51e0\u79d2\u949f\u624d\u80fd\u5237\u65b0\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Alec Callens"
+                    },
+                    "label": "Alec Callens"
+                },
+                "updated": {
+                    "label": "2025-05-21T18:28:20Z"
+                },
+                "im:rating": {
+                    "label": 5
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "451467b2-8d82-42ae-8309-454bde32c1c9"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Over het algemeen goed, maar sinds kort kan ik geen timer meer instellen bij het afspelen van slaapliedjes of white noise, zowel in de app als op de babyfoon zelf. Dat is wel vervelend. update: ik merk net dat dit alweer opgelost is, bedankt voor de feedback en snelle hulp!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u603b\u7684\u6765\u8bf4\uff0c\u4f46\u662f\u6700\u8fd1\u6211\u5728\u5e94\u7528\u7a0b\u5e8f\u548c\u5a74\u513f\u76d1\u89c6\u5668\u672c\u8eab\u4e2d\u64ad\u653e\u50ac\u7720\u66f2\u6b4c\u66f2\u6216\u767d\u566a\u58f0\u65f6\u65e0\u6cd5\u518d\u8bbe\u7f6e\u8ba1\u65f6\u5668\u3002\u90a3\u5f88\u70e6\u4eba\u3002\u66f4\u65b0\uff1a\u6211\u53ea\u662f\u6ce8\u610f\u5230\u8fd9\u5df2\u7ecf\u89e3\u51b3\uff0c\u611f\u8c22\u60a8\u7684\u53cd\u9988\u548c\u5feb\u901f\u5e2e\u52a9\uff01",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Thomas Z"
+                    },
+                    "label": "Thomas Z"
+                },
+                "updated": {
+                    "label": "2025-05-21T00:12:45Z"
+                },
+                "im:rating": {
+                    "label": 4
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "1c4f4a24-0017-46fa-81a1-3851514e4761"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Gute Video HD und l\u00e4uft",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u826f\u597d\u7684\u89c6\u9891\u9ad8\u6e05\u548c\u8fd0\u884c",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Bram ter Huurne"
+                    },
+                    "label": "Bram ter Huurne"
+                },
+                "updated": {
+                    "label": "2025-05-19T15:19:58Z"
+                },
+                "im:rating": {
+                    "label": 2
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "a2217379-5942-4739-ba5c-d51412d132ac"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Had to change my rating from 5 to 2. Even though it does the job of showing me the videostream including sound, it is a huge battery drainer. So much so that I occasionally have to reboot the phone just to get rid of the app, as closing it does not work (both by \"closing\" from the app and then removing it in task manager) and I still get the pop-up e.g. when the device is turned off. This was not a problem on my previous android (Xiaomi Android 14) but is on my Galaxy S24U with Android 15.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u5fc5\u987b\u5c06\u6211\u7684\u8bc4\u7ea7\u4ece5\u66f4\u6539\u4e3a2\u3002\u5c3d\u7ba1\u5b83\u53ef\u4ee5\u5411\u6211\u5c55\u793a\u5305\u62ec\u58f0\u97f3\u5728\u5185\u7684\u89c6\u9891\u6d41\u7684\u5de5\u4f5c\uff0c\u4f46\u5b83\u8fd8\u662f\u4e00\u4e2a\u5de8\u5927\u7684\u7535\u6c60\u6f0f\u6597\u3002\u5982\u6b64\u4e4b\u591a\uff0c\u4ee5\u81f3\u4e8e\u6211\u5076\u5c14\u5fc5\u987b\u91cd\u65b0\u542f\u52a8\u624b\u673a\u53ea\u662f\u4e3a\u4e86\u6446\u8131\u8be5\u5e94\u7528\u7a0b\u5e8f\uff0c\u56e0\u4e3a\u5173\u95ed\u5b83\u4e0d\u8d77\u4f5c\u7528\uff08\u65e2\u53ef\u4ee5\u901a\u8fc7\u4ece\u5e94\u7528\u7a0b\u5e8f\u4e2d\u201c\u5173\u95ed\u201d\uff0c\u7136\u540e\u5728\u4efb\u52a1\u7ba1\u7406\u5668\u4e2d\u5220\u9664\u5b83\uff09\uff0c\u5e76\u4e14\u5728\u8bbe\u5907\u5173\u95ed\u65f6\uff0c\u6211\u4ecd\u7136\u4f1a\u6536\u5230\u5f39\u51fa\u5f0fEG\u3002\u8fd9\u4e0d\u662f\u6211\u4ee5\u524d\u7684Android\uff08\u5c0f\u7c73Android 14\uff09\u7684\u95ee\u9898\uff0c\u800c\u662f\u5728\u6211\u7684Galaxy S24U\u4e0a\u4f7f\u7528Android 15\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "vn",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Deniz Ahmedov"
+                    },
+                    "label": "Deniz Ahmedov"
+                },
+                "updated": {
+                    "label": "2025-05-16T23:39:43Z"
+                },
+                "im:rating": {
+                    "label": 5
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "39fce195-84ce-420e-8a32-0daa0b7d02d1"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Top!!! \ud83d\ude0e",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u9876\u90e8\uff01\uff01\uff01 \ud83d\ude0e",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "vn",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "L L"
+                    },
+                    "label": "L L"
+                },
+                "updated": {
+                    "label": "2025-05-15T20:15:00Z"
+                },
+                "im:rating": {
+                    "label": 2
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "8c478574-befa-46a3-9f89-676cbd60856a"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Eigentlich war ich sehr begeistert von eurem System. Nutze die Kamera in Verbindung mit der App seit knapp einem Jahr. Leider muss auch ich in letzter Zeit h\u00e4ufige Verbindungsabbr\u00fcche feststellen, obwohl das WLAN ausgezeichnet (keine Angst, ich kenne mich bestens aus) ist und keine St\u00f6rfaktoren vorhanden sind. Habe das Ger\u00e4t neu gestartet, den Chache geleert und auch die App neu installiert, habe es mit anderen Gr\u00e4ten, auch iPhone, getestet. Irgendwie ern\u00fcchternd...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u6211\u5b9e\u9645\u4e0a\u5bf9\u60a8\u7684\u7cfb\u7edf\u975e\u5e38\u70ed\u60c5\u3002\u5c06\u76f8\u673a\u4e0e\u5e94\u7528\u7a0b\u5e8f\u8fde\u63a5\u8fd1\u4e00\u5e74\u3002\u4e0d\u5e78\u7684\u662f\uff0c\u5c3d\u7ba1WLAN\u975e\u5e38\u597d\uff08\u4e0d\u8981\u5bb3\u6015\uff0c\u6211\u77e5\u9053\u6211\u7684\u51fa\u8def\uff09\uff0c\u4f46\u6211\u8fd8\u5fc5\u987b\u786e\u5b9a\u9891\u7e41\u7684\u8f8d\u5b66\uff0c\u4f46\u6ca1\u6709\u7834\u574f\u6027\u7684\u56e0\u7d20\u3002\u6211\u91cd\u65b0\u542f\u52a8\u4e86\u8bbe\u5907\uff0c\u6e05\u7a7a\u4e86Chache\uff0c\u8fd8\u91cd\u65b0\u5b89\u88c5\u4e86\u8be5\u5e94\u7528\u7a0b\u5e8f\uff0c\u5e76\u7528\u5176\u4ed6\u9aa8\u5934\uff08\u5305\u62eciPhone\uff09\u5bf9\u5176\u8fdb\u884c\u4e86\u6d4b\u8bd5\u3002\u4ee5\u67d0\u79cd\u65b9\u5f0f\u6e05\u9192...",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Roxana Geesing"
+                    },
+                    "label": "Roxana Geesing"
+                },
+                "updated": {
+                    "label": "2025-05-10T16:31:27Z"
+                },
+                "im:rating": {
+                    "label": 3
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "f17025bf-b944-42ca-9f81-4a8c5201aa4c"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Altijd fijn geweest. Goede, fijne, handige en duidelijke app. Maar sinds een tijdje kan ik de muziekjes/ geluidjes niet meer af laten lopen, hij telt niet meer af. Ik kan het nog wel 'aanvinken', maar er gebeurt niks mee. In het begin niet meteen door, dus toen heel de nacht de liedjes aan gehad, terwijl na 30 min of na 60 min het echt wel uit mocht gaan.... Nu gebruik de liedjes dus eigenlijk niet meer. Zonde... Op meerdere telefoons en tablets hetzelfde probleem. Anders 5\u2606",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u603b\u662f\u5f88\u597d\u3002\u597d\uff0c\u5f88\u597d\uff0c\u65b9\u4fbf\u4e14\u6e05\u6670\u7684\u5e94\u7528\u7a0b\u5e8f\u3002\u4f46\u662f\u4ece\u4e00\u6bb5\u65f6\u95f4\u4ee5\u6765\uff0c\u6211\u518d\u4e5f\u65e0\u6cd5\u8ba9\u97f3\u4e50/\u58f0\u97f3\u8d70\u5f00\u4e86\uff0c\u4ed6\u4e0d\u518d\u91cd\u8981\u3002\u6211\u4ecd\u7136\u53ef\u4ee5\u201c\u6253\u52fe\u201d\uff0c\u4f46\u6ca1\u6709\u4efb\u4f55\u4e8b\u60c5\u53d1\u751f\u3002\u4e00\u5f00\u59cb\u5c31\u4e0d\u4f1a\u7acb\u5373\u7acb\u5373\u8fdb\u884c\uff0c\u56e0\u6b64\u5f53\u6b4c\u66f2\u6253\u5f00\u65f6\uff0c30\u5206\u949f\u621660\u5206\u949f\u540e\uff0c\u5b83\u786e\u5b9e\u88ab\u5141\u8bb8\u2026\u2026\u6240\u4ee5\u73b0\u5728\u6b4c\u66f2\u5b9e\u9645\u4e0a\u4e0d\u518d\u4f7f\u7528\u4e86\u3002\u53ef\u803b\u7684...\u5728\u51e0\u53f0\u624b\u673a\u548c\u5e73\u677f\u7535\u8111\u4e0a\u4e5f\u6709\u540c\u6837\u7684\u95ee\u9898\u3002\u5426\u52195 ren",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "E-Sport Eddi"
+                    },
+                    "label": "E-Sport Eddi"
+                },
+                "updated": {
+                    "label": "2025-05-08T02:12:47Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "2427336a-9857-4d2d-8049-0cc47f928f88"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "das Teil verliert laufend die Verbindung , steht jedoch 2 Meter neben dem Router",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u8be5\u96f6\u4ef6\u8fde\u7eed\u5931\u53bb\u8fde\u63a5\uff0c\u4f46\u8def\u7531\u5668\u65c1\u8fb9\u76842\u7c73",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "E S"
+                    },
+                    "label": "E S"
+                },
+                "updated": {
+                    "label": "2025-05-04T22:54:29Z"
+                },
+                "im:rating": {
+                    "label": 2
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "593bd574-2e6d-457f-9a9a-004ad4956d2a"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Great when it works, and for its use case it should always work, but the scary truth is that it doesn't. Recently whenever the app is started the screen stays black and says \"building an encrypted channel\", often this is only for 20 seconds (far too long!), but sometimes it just gets stuck on this permanently. Other times the app looks like it's working but what you don't realise is that you're looking at an older still image of your baby. You might believe everything is ok while it's not.&more",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u5f53\u5b83\u8d77\u4f5c\u7528\u7684\u65f6\u5019\u5f88\u68d2\uff0c\u5e76\u4e14\u5bf9\u4e8e\u7528\u4f8b\uff0c\u5b83\u5e94\u8be5\u59cb\u7ec8\u5de5\u4f5c\uff0c\u4f46\u662f\u53ef\u6015\u7684\u4e8b\u5b9e\u662f\u4e8b\u5b9e\u5e76\u975e\u5982\u6b64\u3002\u6700\u8fd1\uff0c\u6bcf\u5f53\u542f\u52a8\u8be5\u5e94\u7528\u7a0b\u5e8f\u65f6\uff0c\u5c4f\u5e55\u90fd\u4f1a\u4fdd\u6301\u9ed1\u8272\uff0c\u5e76\u8bf4\u201c\u6784\u5efa\u4e00\u4e2a\u52a0\u5bc6\u7684\u9891\u9053\u201d\uff0c\u901a\u5e38\u53ea\u670920\u79d2\u949f\uff08\u592a\u957f\uff01\uff09\uff0c\u4f46\u6709\u65f6\u5b83\u4f1a\u6c38\u4e45\u5730\u9677\u5165\u56f0\u5883\u3002\u5176\u4ed6\u65f6\u5019\uff0c\u8be5\u5e94\u7528\u770b\u8d77\u6765\u50cf\u662f\u5728\u8d77\u4f5c\u7528\uff0c\u4f46\u662f\u60a8\u6ca1\u6709\u610f\u8bc6\u5230\u7684\u662f\u60a8\u6b63\u5728\u770b\u5a74\u513f\u7684\u8f83\u8001\u7684\u9759\u6b62\u56fe\u50cf\u3002\u60a8\u53ef\u80fd\u4f1a\u76f8\u4fe1\u4e00\u5207\u90fd\u8fd8\u53ef\u4ee5\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "vn",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Kim W."
+                    },
+                    "label": "Kim W."
+                },
+                "updated": {
+                    "label": "2025-04-29T01:44:00Z"
+                },
+                "im:rating": {
+                    "label": 2
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "39904c49-3748-4005-b881-2f12287deecd"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Wir hatten fast 2 Jahre keine Probleme mit der App. Seit ein paar Wochen, funktioniert die App so gut wie gar nicht mehr. Immer wieder angeblich keine Verbindung da. Es nervt einfach nur noch. Wir haben schon alles gemacht. Aber es wird immer schlimmer. Seit 3 Tagen komplett keine Verbindung m\u00f6glich. Sehr sehr \u00e4rgerlich wenn man drauf angewiesen ist!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u5c06\u8fd1\u4e24\u5e74\u7684\u5e94\u7528\u7a0b\u5e8f\u6211\u4eec\u6ca1\u6709\u95ee\u9898\u3002\u51e0\u5468\u6765\uff0c\u8be5\u5e94\u7528\u7a0b\u5e8f\u51e0\u4e4e\u65e0\u6cd5\u6b63\u5e38\u5de5\u4f5c\u3002\u4e00\u6b21\u53c8\u4e00\u6b21\u6ca1\u6709\u8fde\u63a5\u3002\u8fd9\u5f88\u70e6\u4eba\u3002\u6211\u4eec\u5df2\u7ecf\u505a\u4e86\u4e00\u5207\u3002\u4f46\u662f\u60c5\u51b5\u8d8a\u6765\u8d8a\u7cdf\u3002\u8fde\u7eed3\u5929\u65e0\u6cd5\u8fde\u63a5\u3002\u5f53\u60a8\u9700\u8981\u65f6\u975e\u5e38\u975e\u5e38\u70e6\u4eba\uff01",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 1
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 1
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Zen Abrahams"
+                    },
+                    "label": "Zen Abrahams"
+                },
+                "updated": {
+                    "label": "2025-04-27T17:16:58Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "20b224bd-6351-4487-9eed-a18c96afb7f3"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "This app sends unwanted, unsolicited survey requests as priority notification to my phone - with vibration / sound alert, while my kid is sleeping. Survey link is via a 3rd party platform. I never asked to be sent spam through my baby monitor app, I didn't opt in and cant opt out. Might have as well bought a Chinese product apparently. This is how you lose consumers' trust. RE: response below: could've put a note/banner in the app itself vs unwanted push notification. Then I could've ignored it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u8be5\u5e94\u7528\u7a0b\u5e8f\u5c06\u4e0d\u9700\u8981\u7684\uff0c\u4e3b\u9898\u7684\u8c03\u67e5\u8bf7\u6c42\u4f5c\u4e3a\u6211\u7684\u624b\u673a\u7684\u4f18\u5148\u901a\u77e5 - \u5728\u6211\u7684\u5b69\u5b50\u7761\u89c9\u65f6\u5e26\u6709\u632f\u52a8 /\u58f0\u97f3\u8b66\u62a5\u3002\u8c03\u67e5\u94fe\u63a5\u901a\u8fc7\u7b2c\u4e09\u65b9\u5e73\u53f0\u3002\u6211\u4ece\u672a\u8981\u6c42\u901a\u8fc7\u6211\u7684Baby Monitor\u5e94\u7528\u7a0b\u5e8f\u53d1\u9001\u5783\u573e\u90ae\u4ef6\uff0c\u6211\u6ca1\u6709\u9009\u62e9\u8fdb\u53bb\uff0c\u4e5f\u4e0d\u80fd\u9009\u62e9\u9000\u51fa\u3002\u663e\u7136\u4e5f\u53ef\u80fd\u4e70\u4e86\u4e00\u79cd\u4e2d\u56fd\u4ea7\u54c1\u3002\u8fd9\u5c31\u662f\u60a8\u5931\u53bb\u6d88\u8d39\u8005\u4fe1\u4efb\u7684\u65b9\u5f0f\u3002\u56de\u590d\uff1a\u4e0b\u9762\u7684\u54cd\u5e94\uff1a\u53ef\u4ee5\u5728\u5e94\u7528\u672c\u8eab\u4e0e\u4e0d\u9700\u8981\u7684\u63a8\u9001\u901a\u77e5\u4e2d\u653e\u7f6e\u6ce8\u91ca/\u6a2a\u5e45\u3002\u7136\u540e\u6211\u53ef\u4ee5\u5ffd\u7565\u5b83\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "vn",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Desiree Klinge"
+                    },
+                    "label": "Desiree Klinge"
+                },
+                "updated": {
+                    "label": "2025-04-25T03:20:12Z"
+                },
+                "im:rating": {
+                    "label": 3
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "6dcd7c35-a560-45bd-bb27-3bd78f321ced"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Wir lieben die App und die Funktionen. Leider funktioniert seit einigen Tagen die App nicht \u00fcber mobile Daten. Nur \u00fcber WLAN ist eine Video\u00fcbertragung m\u00f6glich. Wir haben es auch schon auf unterschiedlichen Smartphones probiert - \u00fcberall das gleiche Problem. Kann uns jemand weiterhelfen?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u6211\u4eec\u559c\u6b22\u8be5\u5e94\u7528\u7a0b\u5e8f\u548c\u529f\u80fd\u3002\u4e0d\u5e78\u7684\u662f\uff0c\u8be5\u5e94\u7528\u7a0b\u5e8f\u5df2\u6709\u51e0\u5929\u4e86\u51e0\u5929\u3002\u89c6\u9891\u4f20\u8f93\u53ea\u80fd\u901a\u8fc7WLAN\u3002\u6211\u4eec\u5df2\u7ecf\u5728\u4e0d\u540c\u7684\u667a\u80fd\u624b\u673a\u4e0a\u5c1d\u8bd5\u8fc7 - \u5230\u5904\u90fd\u662f\u76f8\u540c\u7684\u95ee\u9898\u3002\u6709\u4eba\u53ef\u4ee5\u5e2e\u6211\u4eec\u5417\uff1f",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Simon Lft"
+                    },
+                    "label": "Simon Lft"
+                },
+                "updated": {
+                    "label": "2025-04-23T05:13:22Z"
+                },
+                "im:rating": {
+                    "label": 4
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "8a3cbc85-262c-4f38-85aa-9736f25a700f"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Tr\u00e8s pratique sur t\u00e9l\u00e9phone et tablette (on peut zoomer pour voir la respiration du b\u00e9b\u00e9). nos \u00e9crans sont nettement mieux que celui fourni avec la cam\u00e9ra (notamment moins lumineux). Par contre, pourquoi bloquer la modification du volume dans l'application par palier de 1 quand on laisse appuyer ? l'application d\u00e9lire aussi parfois et repr\u00e9sente le tutoriel. L'\u00e9coute en arri\u00e8re plan est beugu\u00e9. une version pour SmartWatch serait tr\u00e8s pratique.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u5728\u7535\u8bdd\u548c\u5e73\u677f\u7535\u8111\u4e0a\u975e\u5e38\u5b9e\u7528\uff08\u60a8\u53ef\u4ee5\u653e\u5927\u4ee5\u67e5\u770b\u5a74\u513f\u7684\u547c\u5438\uff09\u3002\u6211\u4eec\u7684\u5c4f\u5e55\u6bd4\u76f8\u673a\u6240\u63d0\u4f9b\u7684\u5c4f\u5e55\u8981\u597d\u5f97\u591a\uff08\u5c24\u5176\u662f\u660e\u4eae\u7684\u5c4f\u5e55\uff09\u3002\u53e6\u4e00\u65b9\u9762\uff0c\u5f53\u60a8\u5141\u8bb8\u6309\u4e0b\u65f6\uff0c\u4e3a\u4ec0\u4e48\u8981\u901a\u8fc7\u964d\u843d1\u7684\u964d\u843d\u6765\u963b\u6b62\u5377\u7684\u4fee\u6539\uff1f\u8be5\u5e94\u7528\u7a0b\u5e8f\u8fd8\u4ee4\u4eba\u6109\u60a6\u5e76\u4ee3\u8868\u6559\u7a0b\u3002\u5728\u80cc\u666f\u4e2d\u8046\u542c\u3002\u667a\u80fd\u624b\u8868\u7684\u7248\u672c\u5c06\u975e\u5e38\u5b9e\u7528\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "fr",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Adrian B."
+                    },
+                    "label": "Adrian B."
+                },
+                "updated": {
+                    "label": "2025-04-20T03:31:35Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "c37a96fb-4fe6-420b-9cda-80f3c8eefe55"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Nach dem letzten Update des Lenovo Tablets funktioniert das Querformat der App nicht mehr. Version 1.30 ist installiert, Cache mehrmals gel\u00f6scht. Trotzdem gibt es nur ein flackern. Update 19.04 : Version 1.4.0 installiert, Fehler tritt weiterhin auf",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u5728\u8054\u60f3\u5e73\u677f\u7535\u8111\u7684\u6700\u540e\u4e00\u6b21\u66f4\u65b0\u4e4b\u540e\uff0c\u8be5\u5e94\u7528\u7a0b\u5e8f\u7684\u666f\u89c2\u5df2\u4e0d\u518d\u8d77\u4f5c\u7528\u3002\u5b89\u88c5\u4e861.30\u7248\uff0c\u5220\u9664\u4e86\u51e0\u6b21\u7f13\u5b58\u3002\u7136\u800c\uff0c\u53ea\u6709\u4e00\u4e2a\u95ea\u70c1\u3002\u66f4\u65b019.04\uff1a\u5df2\u5b89\u88c5\u7248\u672c1.4.0\uff0c\u7ee7\u7eed\u53d1\u751f\u9519\u8bef",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "pieter van heddegem"
+                    },
+                    "label": "pieter van heddegem"
+                },
+                "updated": {
+                    "label": "2025-04-19T16:17:28Z"
+                },
+                "im:rating": {
+                    "label": 2
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "1ed3cc0e-66ff-4e73-b17d-31153c931f51"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Ik moet  door een update opnieuw inloggen. Ik ken mailadres en wachtwoord maar het probleem is dat ik geen toegang meer heb tot mijn mailbox voor de verificatiecode. Ik probeer mijn mailadres te wijzigen maar dit lukt niet. Ik heb 3 camera\u2019s gekoppeld en zie het niet zitten alles opnieuw in te stellen",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u6211\u5fc5\u987b\u901a\u8fc7\u66f4\u65b0\u518d\u6b21\u767b\u5f55\u3002\u6211\u77e5\u9053e -mail\u5730\u5740\u548c\u5bc6\u7801\uff0c\u4f46\u95ee\u9898\u662f\u6211\u4e0d\u518d\u53ef\u4ee5\u8bbf\u95ee\u9a8c\u8bc1\u4ee3\u7801\u7684\u90ae\u7bb1\u3002\u6211\u5c1d\u8bd5\u66f4\u6539\u6211\u7684e -mail\u5730\u5740\uff0c\u4f46\u8fd9\u662f\u4e0d\u53ef\u80fd\u7684\u3002\u6211\u8026\u5408\u4e863\u53f0\u76f8\u673a\uff0c\u4f46\u770b\u4e0d\u5230\u5b83\u662f\u91cd\u65b0\u8bbe\u8ba1\u7684",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Oleg"
+                    },
+                    "label": "Oleg"
+                },
+                "updated": {
+                    "label": "2025-04-17T15:04:58Z"
+                },
+                "im:rating": {
+                    "label": 3
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "d6be7549-56db-493f-9e1c-e5aabb612c5a"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "I don't use notifications. I don't need background work. It eats my battery. Why can't I disable it without the app constantly asking to enable it again?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u6211\u4e0d\u4f7f\u7528\u901a\u77e5\u3002\u6211\u4e0d\u9700\u8981\u80cc\u666f\u5de5\u4f5c\u3002\u5b83\u5403\u4e86\u6211\u7684\u7535\u6c60\u3002\u5982\u679c\u6ca1\u6709\u5e94\u7528\u7a0b\u5e8f\u4e0d\u65ad\u8981\u6c42\u518d\u6b21\u542f\u7528\u5b83\uff0c\u4e3a\u4ec0\u4e48\u6211\u4e0d\u80fd\u5c06\u5176\u7981\u7528\uff1f",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "vn",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Thomas Aerts"
+                    },
+                    "label": "Thomas Aerts"
+                },
+                "updated": {
+                    "label": "2025-04-13T20:29:32Z"
+                },
+                "im:rating": {
+                    "label": 4
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "829a219c-3cbd-4ce1-b765-012620f23a26"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Sinds vandaag problemen om verbinding te maken. Geeft aan dat ons netwerk 5g is en dat we moeten overschakelen naar een 2.4 gHz netwerk. Voorts zijn we zeer tevreden van de app.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u7531\u4e8e\u4eca\u5929\u8981\u8fde\u63a5\u95ee\u9898\u3002\u8868\u793a\u6211\u4eec\u7684\u7f51\u7edc\u662f5G\uff0c\u6211\u4eec\u5fc5\u987b\u5207\u6362\u52302.4 GHz\u7f51\u7edc\u3002\u6211\u4eec\u4e5f\u5bf9\u8be5\u5e94\u7528\u7a0b\u5e8f\u975e\u5e38\u6ee1\u610f\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Landry SEBILLE"
+                    },
+                    "label": "Landry SEBILLE"
+                },
+                "updated": {
+                    "label": "2025-04-13T15:46:20Z"
+                },
+                "im:rating": {
+                    "label": 5
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "207675bf-ac4c-4a53-b720-5191d2442707"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "parfait",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u51bb\u7cd5",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "fr",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Davina Beinert"
+                    },
+                    "label": "Davina Beinert"
+                },
+                "updated": {
+                    "label": "2025-04-12T10:47:59Z"
+                },
+                "im:rating": {
+                    "label": 3
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "97665cec-87a9-44ff-b3ba-5626c74159ba"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Die Verbindung bricht teilweise ab. egal ob mit dem WLAN direkt verbunden oder direkt. Und weder die Kamera, noch der Display sich bewegt haben. Das ist meistens nachts. Die Pausen von der Musik finde ich langgezogen. Kann man das ggf \u00e4ndern? Die Halterung von der Kamera f\u00e4llt immerwieder runter, da wir das an der Wand befestigt haben. der Winkel ver\u00e4ndert sich. Und das Kabel ist zu kurz finde ich pers\u00f6nlich. Kann man ein l\u00e4ngeres Kabel dazu kaufen?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u8fde\u63a5\u90e8\u5206\u65ad\u5f00\u3002\u65e0\u8bba\u662f\u76f4\u63a5\u8fde\u63a5\u5230WLAN\u8fd8\u662f\u76f4\u63a5\u8fde\u63a5\u3002\u76f8\u673a\u548c\u663e\u793a\u5668\u90fd\u6ca1\u6709\u79fb\u52a8\u3002\u901a\u5e38\u662f\u665a\u4e0a\u3002\u6211\u53d1\u73b0\u97f3\u4e50\u62c9\u957f\u7684\u4f11\u606f\u65f6\u95f4\u3002\u60a8\u53ef\u4ee5\u5728\u5fc5\u8981\u65f6\u66f4\u6539\u5417\uff1f\u76f8\u673a\u7684\u652f\u67b6\u4e00\u6b21\u53c8\u4e00\u6b21\u5730\u6389\u843d\uff0c\u56e0\u4e3a\u6211\u4eec\u5c06\u5176\u8fde\u63a5\u5230\u5899\u4e0a\u3002\u89d2\u5ea6\u53d8\u5316\u3002\u6211\u8ba4\u4e3a\u7535\u7f06\u592a\u77ed\u4e86\u3002\u60a8\u53ef\u4ee5\u8d2d\u4e70\u66f4\u957f\u7684\u7535\u7f06\u5417\uff1f",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Alexandre Brunet"
+                    },
+                    "label": "Alexandre Brunet"
+                },
+                "updated": {
+                    "label": "2025-04-08T22:06:42Z"
+                },
+                "im:rating": {
+                    "label": 3
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "d55a87d5-6ebb-4d0e-8f9e-bc9e8df15b99"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Fait le job en compl\u00e9ment de l'unit\u00e9 principale. en revanche : - plante fr\u00e9quemment - reste parfois bloqu\u00e9 sur \"\u00e9tablissement d'un canal chiffr\u00e9\", probl\u00e8me que seul un restart de la cam\u00e9ra semble pallier. Ce probl\u00e8me arrive lorsqu'on ouvre et ferme l'application \u00e0 intervalles trop rapproch\u00e9es - impossible d'activer / d\u00e9sactiver les notifications facilement, il faut aller dans les param\u00e8tres a chaque fois",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u9664\u4e86\u4e3b\u673a\u5916\uff0c\u8fd8\u8981\u505a\u8fd9\u9879\u5de5\u4f5c\u3002\u53e6\u4e00\u65b9\u9762\uff1a - \u7ecf\u5e38\u690d\u7269 - \u6709\u65f6\u5728\u201c\u5efa\u7acb\u52a0\u5bc6\u901a\u9053\u201d\u7684\u60c5\u51b5\u4e0b\u4ecd\u88ab\u963b\u585e\uff0c\u8fd9\u4e2a\u95ee\u9898\u4f3c\u4e4e\u53ea\u91cd\u65b0\u542f\u52a8\u4e86\u76f8\u673a\u7684\u91cd\u65b0\u542f\u52a8\u3002\u5f53\u60a8\u4ee5\u592a\u8fd1\u7684\u95f4\u9694\u6253\u5f00\u5e76\u5173\u95ed\u5e94\u7528\u7a0b\u5e8f\u65f6\uff0c\u6b64\u95ee\u9898\u5230\u8fbe - \u4e0d\u53ef\u80fd\u8f7b\u677e\u5730\u6fc0\u6d3b /\u505c\u7528\u901a\u77e5\uff0c\u60a8\u5fc5\u987b\u6bcf\u6b21\u90fd\u8fdb\u5165\u8bbe\u7f6e",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "fr",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Roy"
+                    },
+                    "label": "Roy"
+                },
+                "updated": {
+                    "label": "2025-04-07T02:52:04Z"
+                },
+                "im:rating": {
+                    "label": 2
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "dc55c03c-c10c-44d7-b6f6-a52b491d9278"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Ik moet de laatste tijd elke keer m'n opslag wissen (ccache helpt niet) omdat ik anders de melding blijf houden dat hij probeert te verbinden. Na opnieuw inloggen werkt alles dan weer. Erg vervelend.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u6211\u6700\u8fd1\u5fc5\u987b\u6bcf\u6b21\u5220\u9664\u5b58\u50a8\u7a7a\u95f4\uff08CCACHE\u65e0\u6d4e\u4e8e\u4e8b\uff09\uff0c\u56e0\u4e3a\u5426\u5219\u6211\u5c06\u7ee7\u7eed\u4fdd\u6301\u4ed6\u6b63\u5728\u5c1d\u8bd5\u8fde\u63a5\u7684\u4fe1\u606f\u3002\u518d\u6b21\u767b\u5f55\u540e\uff0c\u4e00\u5207\u90fd\u4f1a\u518d\u6b21\u8d77\u4f5c\u7528\u3002\u5f88\u70e6\u4eba\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Daniel Jansen"
+                    },
+                    "label": "Daniel Jansen"
+                },
+                "updated": {
+                    "label": "2025-04-04T18:28:02Z"
+                },
+                "im:rating": {
+                    "label": 2
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "1207e59c-cce7-4176-8cad-9d75ca5ffc97"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "meerdere keren na een update opnieuw moeten inloggen. het login scherm werkt vervolgens niet samen met mijn password manager(lastpass) en ik kan ook geen wachtwoord plakken. Als security belangrijk is moet dit mogelijk zijn. en misschien ook MFA",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u66f4\u65b0\u540e\u5fc5\u987b\u518d\u6b21\u767b\u5f55\u51e0\u6b21\u3002\u7136\u540e\uff0c\u767b\u5f55\u5c4f\u5e55\u4e0d\u9002\u7528\u4e8e\u6211\u7684\u5bc6\u7801\u7ba1\u7406\u5668\uff08LastPass\uff09\uff0c\u6211\u65e0\u6cd5\u7c98\u8d34\u5bc6\u7801\u3002\u5982\u679c\u5b89\u5168\u6027\u5f88\u91cd\u8981\uff0c\u5219\u5fc5\u987b\u5b9e\u73b0\u8fd9\u4e00\u76ee\u6807\u3002\u4e5f\u8bb8\u662fMFA",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Nikolaos Sifakis"
+                    },
+                    "label": "Nikolaos Sifakis"
+                },
+                "updated": {
+                    "label": "2025-04-02T22:00:41Z"
+                },
+                "im:rating": {
+                    "label": 4
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "2f8d32c0-db13-4d02-9b48-1901c02d8acd"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Great product and works perfect. Would it be possible to disable the sound for guests and only share video?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u51fa\u8272\u7684\u4ea7\u54c1\u548c\u5b8c\u7f8e\u7684\u5de5\u4f5c\u3002\u662f\u5426\u53ef\u4ee5\u7981\u7528\u5ba2\u4eba\u7684\u58f0\u97f3\uff0c\u800c\u53ea\u80fd\u5206\u4eab\u89c6\u9891\uff1f",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "vn",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Magnus Brathovde"
+                    },
+                    "label": "Magnus Brathovde"
+                },
+                "updated": {
+                    "label": "2025-04-01T01:56:04Z"
+                },
+                "im:rating": {
+                    "label": 3
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "bfe43d38-c2c6-482f-a6ea-3080c27932af"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "App works great with crisp video quality and all the expected features. Adding these two missing features would make it perfect: 1 - support for notifications for guest users. 2 - make it possible to accept terms and conditions when connecting to hotel WiFi",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "App\u64c5\u957f\u4e8e\u6e05\u6670\u7684\u89c6\u9891\u8d28\u91cf\u548c\u6240\u6709\u9884\u671f\u529f\u80fd\u3002\u6dfb\u52a0\u8fd9\u4e24\u4e2a\u7f3a\u5931\u7684\u529f\u80fd\u5c06\u4f7f\u4e4b\u5b8c\u7f8e\uff1a1-\u652f\u6301\u6765\u5bbe\u7528\u6237\u901a\u77e5\u3002 2-\u8fde\u63a5\u5230\u9152\u5e97WiFi\u65f6\uff0c\u53ef\u4ee5\u63a5\u53d7\u6761\u6b3e\u548c\u6761\u4ef6",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "vn",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Branimira Kardum"
+                    },
+                    "label": "Branimira Kardum"
+                },
+                "updated": {
+                    "label": "2025-03-30T07:01:42Z"
+                },
+                "im:rating": {
+                    "label": 5
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "113ac231-d331-4cd6-9e2c-2ed8177f49a3"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Izvrsna kamera dnevna kao i no\u0107na. Radi besprijekorno i u potpunom mraku mo\u017eete vidjeti bebu jasno. Sve specifikacije, kao \u0161to je i opisano uz ure\u0111aj, uistinu se isplate (no\u0107no svijetlo, uspavanke itd). Iskrena preporuka!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u5f88\u68d2\u7684\u76f8\u673a\u65e5\u548c\u591c\u95f4\u3002\u5b83\u53ef\u4ee5\u5b8c\u7f8e\u5730\u5de5\u4f5c\uff0c\u60a8\u53ef\u4ee5\u5728\u5b8c\u5168\u9ed1\u6697\u4e2d\u6e05\u695a\u5730\u770b\u5230\u5a74\u513f\u3002\u5982\u8be5\u8bbe\u5907\u6240\u8ff0\uff0c\u6240\u6709\u89c4\u683c\u90fd\u771f\u6b63\u83b7\u5f97\u4e86\u56de\u62a5\uff08\u591c\u706f\uff0c\u6447\u7bee\u66f2\u7b49\uff09\u3002\u771f\u8bda\u7684\u5efa\u8bae\uff01",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "hr",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Thomas van Rooij"
+                    },
+                    "label": "Thomas van Rooij"
+                },
+                "updated": {
+                    "label": "2025-03-28T15:03:30Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "0159d3af-41ba-44bb-a6c6-a08153bf7d8f"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Deed het beste aardig, maar de babyfoon werkt nu alleen in de overzichtsmodus. De camera zelf geeft al 24u aan in update te zijn en geeft de waarschuwing dat deze niet uit mag en dat je moet wachten...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u505a\u5f97\u6700\u597d\uff0c\u4f46\u662f\u5a74\u513f\u76d1\u89c6\u5668\u73b0\u5728\u4ec5\u5728\u6982\u8ff0\u6a21\u5f0f\u4e0b\u5de5\u4f5c\u3002\u76f8\u673a\u672c\u8eab\u8868\u660e\u5b83\u5df2\u7ecf\u5728\u66f4\u65b024\u5c0f\u65f6\u4e2d\uff0c\u5e76\u8b66\u544a\u8bf4\u4e0d\u5141\u8bb8\uff0c\u60a8\u5fc5\u987b\u7b49\u5f85...",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 1
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 1
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Christian Egebakken"
+                    },
+                    "label": "Christian Egebakken"
+                },
+                "updated": {
+                    "label": "2025-03-25T20:49:15Z"
+                },
+                "im:rating": {
+                    "label": 3
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "8807bd38-d7ab-4355-aac3-dbaf045d3a3a"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "missing the possibility to upload mp3 files to play on philips avent premium (scd973/26). Can you fix this?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u7f3a\u5c11\u4e0a\u4f20mp3\u6587\u4ef6\u4ee5\u5728\u98de\u5229\u6d66Avent Premium\uff08SCD973/26\uff09\u4e0a\u64ad\u653e\u7684\u53ef\u80fd\u6027\u3002\u4f60\u80fd\u4fee\u8fd9\u4e2a\u5417\uff1f",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "no",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "zdravko marin"
+                    },
+                    "label": "zdravko marin"
+                },
+                "updated": {
+                    "label": "2025-03-19T00:48:03Z"
+                },
+                "im:rating": {
+                    "label": 5
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "78c38108-1989-4d8e-941f-3b351beed5b2"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "strahoten prosto 6+",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "Strahoten Prosto 6+",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "bg",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Patrick Boon"
+                    },
+                    "label": "Patrick Boon"
+                },
+                "updated": {
+                    "label": "2025-03-18T03:55:59Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "7e95d5fe-2d91-42d8-bcad-ebc3adcf4442"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Regelmatig valt de verbinding weg tussen app en babycam.. En sinds vandaag geen verbinding meer te krijgen",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u8be5\u8fde\u63a5\u5b9a\u671f\u5728\u5e94\u7528\u7a0b\u5e8f\u548cbabycam\u4e4b\u95f4\u6389\u843d\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/lv/reviews/id480795169"
+                    },
+                    "name": {
+                        "label": "Supersmashboss"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-17T13:41:52-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "12432585454"
+                },
+                "title": {
+                    "label": "Pip mode stopped working with any app that plays video"
+                },
+                "content": {
+                    "label": "I think the title says it all. I can no longer watch YouTube videos or movies in the Apple TV app while using the baby monitor app in Picture-in-Picture mode. Whenever I try to play another video while PiP is enabled, the camera feed stops displaying. This makes the app almost useless since I now have to rely on the dedicated monitor that came with the camera. When I bought the baby monitor in October 2024, everything worked perfectly, but a later update seems to have broken this feature.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/lv/review?id=1544760744&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "os": {
+                    "label": "IOS"
+                },
+                "cc": "lv",
+                "ty_question_type": "0",
+                "ty_review_type": "0",
+                "content_translate": "\u6211\u8ba4\u4e3a\u6807\u9898\u8bf4\u660e\u4e86\u4e00\u5207\u3002\u5728\u56fe\u7247\u4e2d\u4f7f\u7528\u5a74\u513f\u76d1\u89c6\u5668\u5e94\u7528\u7a0b\u5e8f\u65f6\uff0c\u6211\u518d\u4e5f\u65e0\u6cd5\u5728Apple TV\u5e94\u7528\u4e2d\u89c2\u770bYouTube\u89c6\u9891\u6216\u7535\u5f71\u3002\u6bcf\u5f53\u6211\u5c1d\u8bd5\u5728\u542f\u7528PIP\u65f6\u64ad\u653e\u53e6\u4e00\u4e2a\u89c6\u9891\u65f6\uff0c\u76f8\u673a\u63d0\u8981\u90fd\u4f1a\u505c\u6b62\u663e\u793a\u3002\u8fd9\u4f7f\u8be5\u5e94\u7528\u7a0b\u5e8f\u51e0\u4e4e\u6beb\u65e0\u7528\u5904\uff0c\u56e0\u4e3a\u6211\u73b0\u5728\u5fc5\u987b\u4f9d\u9760\u76f8\u673a\u968f\u9644\u7684\u4e13\u7528\u76d1\u89c6\u5668\u3002\u5f53\u6211\u57282024\u5e7410\u6708\u8d2d\u4e70Baby Monitor\u65f6\uff0c\u4e00\u5207\u90fd\u5f88\u597d\uff0c\u4f46\u662f\u540e\u6765\u7684\u66f4\u65b0\u4f3c\u4e4e\u6253\u7834\u4e86\u6b64\u529f\u80fd\u3002",
+                "title_translate": "PIP\u6a21\u5f0f\u505c\u6b62\u4f7f\u7528\u4efb\u4f55\u64ad\u653e\u89c6\u9891\u7684\u5e94\u7528\u7a0b\u5e8f"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Stephan Dankesreiter"
+                    },
+                    "label": "Stephan Dankesreiter"
+                },
+                "updated": {
+                    "label": "2025-03-16T23:29:30Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "7072ca2a-9f5d-4322-974f-cec817114678"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Nach letztem Updaze st\u00e4ndig Verbindungsabbr\u00fcche, die Sendeeinheit fliegt seitdem st\u00e4ndig aus dem Wlan. Ein super Ger\u00e4t, aber so nicht zu gebrauchen! Bitte schnellstens fixen!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u6839\u636e\u4e0a\u6b21\u66f4\u65b0\uff0c\u8fde\u63a5\u53ef\u4ee5\u4e0d\u65ad\u895f\u7ffc\uff0c\u4ece\u90a3\u65f6\u8d77\uff0c\u4f20\u8f93\u5355\u5143\u5c31\u5df2\u7ecf\u7528\u5b8c\u4e86WLAN\u3002\u4e00\u4e2a\u5f88\u68d2\u7684\u8bbe\u5907\uff0c\u4f46\u4e0d\u4f7f\u7528\u5b83\uff01\u8bf7\u5c3d\u5feb\u4fee\u590d\uff01",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Anneke Vermander"
+                    },
+                    "label": "Anneke Vermander"
+                },
+                "updated": {
+                    "label": "2025-03-06T03:07:01Z"
+                },
+                "im:rating": {
+                    "label": 3
+                },
+                "im:version": {
+                    "label": "1.4.0"
+                },
+                "id": {
+                    "label": "b29470b0-a732-4eac-b3c7-1a78d94d36f6"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Het toestel op zich is heel goed. Enkel echt ontgoocheld in de temperatuurmeting, die klopt echt helemaal niet. Een vriendin heeft hetzelfde toestel en merkt net hetzelfde! Hieraan met echt gewerkt worden want nu is dit onderdeel waardeloos en zorgde het bij aanvang zelf voor onnodige ongerustheid.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u8bbe\u5907\u672c\u8eab\u975e\u5e38\u597d\u3002\u53ea\u6709\u5728\u6e29\u5ea6\u6d4b\u200b\u200b\u91cf\u4e2d\u624d\u771f\u6b63\u5931\u671b\uff0c\u8fd9\u786e\u5b9e\u6839\u672c\u4e0d\u5bf9\u3002\u670b\u53cb\u6709\u76f8\u540c\u7684\u8bbe\u5907\uff0c\u5e76\u6ce8\u610f\u5230\u540c\u4e00\u4ef6\u4e8b\uff01\u4ece\u4e8b\u5b9e\u9645\u5de5\u4f5c\uff0c\u56e0\u4e3a\u73b0\u5728\u8fd9\u90e8\u5206\u6beb\u65e0\u4ef7\u503c\uff0c\u5e76\u4e14\u5728\u4e00\u5f00\u59cb\u5c31\u5f15\u8d77\u4e86\u4e0d\u5fc5\u8981\u7684\u7126\u8651\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            }
+        ]
+    }
+}
